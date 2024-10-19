@@ -19,7 +19,7 @@ const int OO = (int)1e6;
 //     return true;
 // }
 
-
+// Problem link = https://codeforces.com/contest/714/problem/B
 
 
 int main() {
