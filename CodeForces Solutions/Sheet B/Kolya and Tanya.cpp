@@ -10,7 +10,7 @@ const int OO = (int)1e6;
 int dr[4]{ -1, 1, 0, 0};
 int dc[4]{ 0, 0, 1, -1};
  
-// Problem link = https://codeforces.com/contest/584/problem/B
+// Problem link = 
 
 void solve() 
 {   
